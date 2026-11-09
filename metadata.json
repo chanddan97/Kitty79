@@ -1,0 +1,6 @@
+{
+  "name": "KRITY AI TTS",
+  "description": "Personal AI Text-to-Speech app converting Bengali, Hindi, and English text into natural AI speech powered by Google Gemini TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
